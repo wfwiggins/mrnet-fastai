@@ -1,3 +1,5 @@
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Python ignores
+__pycache__/
